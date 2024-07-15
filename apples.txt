@@ -7,3 +7,6 @@ Braeburn
 Mcintosh
 Fuji
 Gala
+Rome
+Opal
+Envy
